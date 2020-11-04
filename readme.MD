@@ -1,0 +1,1 @@
+This app randomly generates ed25519 private key and calculates public key and address for it
